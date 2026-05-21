@@ -71,3 +71,8 @@ USER.md
 
 # local tooling
 .serena/
+STATUS.md
+memory/
+.agent
+.agent/
+
